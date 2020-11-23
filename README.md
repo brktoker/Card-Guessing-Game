@@ -1,4 +1,4 @@
-# pogaca-nerede-kart-oyunu
+# Card-Guessing-Game
 
 > A Vue.js project
 
